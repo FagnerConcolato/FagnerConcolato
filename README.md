@@ -20,8 +20,6 @@
    <img alt="jg-linux" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
    </div>
     
-  ### ⚡ Fun fact:
-     I totally changed my life and now I am looking for the best of myself in all aspects.
   <div>
   <a href="https://github.com/joaogabrielz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogabrielz&show_icons=true&theme=aura&include_all_commits=true&count_private=false"/>
