@@ -15,7 +15,10 @@
  <div style="display:flex">  
   <h3>🧙‍♂️ Others Skills:</h3>
 <div style="display:flex">  
-  <img alt="jg-figma" align="center" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/>
+  <img width="16" height="16" src="https://img.icons8.com/officel/16/react.png" alt="react"/>
    </div>
     
   <div>
