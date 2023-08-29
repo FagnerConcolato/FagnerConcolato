@@ -15,7 +15,7 @@
  <div style="display:flex">  
   <h3>🧙‍♂️ Others Skills:</h3>
 <div style="display:flex">  
-  <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
+  <img width="55" height="55" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
   <img width="48" height="48" src="https://img.icons8.com/ios-filled/100/github.png" alt="github"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/>
