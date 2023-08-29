@@ -18,7 +18,7 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/>
-  <img width="16" height="16" src="https://img.icons8.com/officel/16/react.png" alt="react"/>
+  <img width="48" height="48" src="https://img.icons8.com/officel/16/react.png" alt="react"/>
    </div>
     
   <div>
