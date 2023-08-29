@@ -1,7 +1,7 @@
   # Fagner Concolato
   
   ### Desenvolvedor Front-End 
-  <img alt="Frase-de-motivação-para-transição-de-carreira" src= "https://readme-typing-svg.herokuapp.com/?lines=Em+um+processo+de+transição+de+carreira+,+estudando+arduamente+para+me+ tornar+um+excelente+Desenvolvedor." >
+  <img alt="Frase-de-motivação-para-transição-de-carreira" src= "https://readme-typing-svg.herokuapp.com/?lines=Em+um+processo+de+transição+de+carreira+,+estudando+arduamente+para+me+tornar+um+excelente+Desenvolvedor." >
   <div style="display:flex">
   <h3>👨‍💻 Hard Skills: </h3>
     
