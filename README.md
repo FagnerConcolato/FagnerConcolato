@@ -17,6 +17,7 @@
 <div style="display:flex">  
   <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+  <img width="48" height="48" src="https://img.icons8.com/ios-filled/100/github.png" alt="github"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/>
   <img width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
    </div>
