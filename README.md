@@ -22,11 +22,7 @@
   <img width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
    </div>
     
-  <div>
-  <a href="https://github.com/FagnerConcolato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogabrielz&show_icons=true&theme=aura&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielz&layout=compact&langs_count=16&theme=aura"/>  
-  </div>    
+   
     
 <div> 
   <a href = "mailto:fca.fisica@gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
